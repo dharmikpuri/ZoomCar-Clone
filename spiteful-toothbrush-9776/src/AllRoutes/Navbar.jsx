@@ -2,7 +2,7 @@ import React from 'react'
 import {NavLink} from "react-router-dom"
 import { Box,Text,Image,Container,Center, Heading,VStack,Select,Spacer } from '@chakra-ui/react'
 const link=[
-    // {path:"/",title:"Home"},
+    // {path:"/",title:"Home"}
     {path:"/about",title:"About"},
     {path:"/blog",title:"Blog"},
     {path:"/career",title:"Career"},
