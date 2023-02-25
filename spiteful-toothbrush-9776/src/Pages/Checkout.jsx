@@ -13,16 +13,11 @@ class Checkout extends React.Component {
       <div className="maincontainer">
        <div  class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom box-shadow">
           {/* <h5 class="my-0 mr-md-auto font-weight-normal">Company name</h5> */}
-          <img className='logo' src="https://logos-world.net/wp-content/uploads/2022/04/Eddie-Bauer-Logo.png" alt="" />
-          
+                    
           <a className='d-flex-anchor' style={{marginLeft:"1000px"}} class="btn btn-outline-primary" href="#">Sign up</a>
         </div>
         <div class="container">
-          <div class="py-5 text-center">
-            
-           
-            <p class="lead">hope you do enjoy your shopping now this is the last step to see your product in your handds please give us as much clear detail as you can so that our staff will reach you without any probleme</p>
-          </div>
+          
           <div class="row">
             <div class="col-md-4 order-md-2 mb-4">
               <h4 class="d-flex justify-content-between align-items-center mb-3">
